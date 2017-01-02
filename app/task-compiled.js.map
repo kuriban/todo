@@ -1,0 +1,1 @@
+{"version":3,"sources":["task.js"],"names":[],"mappings":";;;;;;;;;;IAAa,I,WAAA,I;AAET,oBAAc;AAAA;AAEb;;;;qCAEW,CAEX;;;qCAEW,CAEX","file":"task-compiled.js","sourcesContent":["export class Task {\r\n\r\n    constructor (){\r\n\r\n    }\r\n\r\n    CreateTask(){\r\n\r\n    }\r\n\r\n    DeleteTask(){\r\n\r\n    }\r\n}\r\n"]}

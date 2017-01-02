@@ -1,0 +1,1 @@
+{"version":3,"sources":["subtask.js"],"names":[],"mappings":";;AAAA;;;;;;;;IAEM,O","file":"subtask-compiled.js","sourcesContent":["import {Task} from \"../app/task\";\r\n\r\nclass SubTask extends Task{\r\n\r\n\r\n}"]}
